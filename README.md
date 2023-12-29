@@ -9,5 +9,5 @@ This file will consist, the code with some errors which is to be debugged to cre
 
 # To Clone this repository
 ```bash
-git clone https://github.com/Shiiyam03/Hunt-The-Code.git
+git clone https://github.com/vimalsns21/Hunt_The_Code
 ```
